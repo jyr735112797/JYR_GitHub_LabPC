@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/geometry.hpp
+ostream
+-
+
+../include/svg.hpp
+iostream
+-
+ostream
+-
+string
+-
+vector
+-
+
+../include/utils.hpp
+ostream
+-
+
+/home/jyr/Desktop/code-sample/code-sample/tests/test_dist_pt_to_line.cpp
+svg.hpp
+/home/jyr/Desktop/code-sample/code-sample/tests/svg.hpp
+geometry.hpp
+/home/jyr/Desktop/code-sample/code-sample/tests/geometry.hpp
+utils.hpp
+/home/jyr/Desktop/code-sample/code-sample/tests/utils.hpp
+chrono
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+

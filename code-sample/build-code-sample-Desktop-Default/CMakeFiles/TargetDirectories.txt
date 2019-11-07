@@ -1,0 +1,7 @@
+/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/CMakeFiles/test_svg.dir
+/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/CMakeFiles/interview.dir
+/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/CMakeFiles/test_dist_pt_to_line.dir
+/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/CMakeFiles/test_c_str.dir
+/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/CMakeFiles/test_douglas.dir

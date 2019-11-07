@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="interview" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_svg">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_svg" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_svg" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_svg/fast">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_svg" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_svg/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="interview">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/lib/libinterview.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 interview" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="interview/fast">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/lib/libinterview.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 interview/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_dist_pt_to_line">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_dist_pt_to_line" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_dist_pt_to_line" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_dist_pt_to_line/fast">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_dist_pt_to_line" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_dist_pt_to_line/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_c_str">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_c_str" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_c_str" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_c_str/fast">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_c_str" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_c_str/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_douglas">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_douglas" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_douglas" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_douglas/fast">
+         <Option output="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin/test_douglas" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default" />
+            <Add directory="/home/jyr/Desktop/code-sample/code-sample/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 test_douglas/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jyr/Desktop/code-sample/code-sample/build-code-sample-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/src/geometry.cpp">
+         <Option target="interview"/>
+      </Unit>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/src/svg.cpp">
+         <Option target="interview"/>
+      </Unit>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/src/utils.cpp">
+         <Option target="interview"/>
+      </Unit>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/tests/test_c_str.cpp">
+         <Option target="test_c_str"/>
+      </Unit>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/tests/test_dist_pt_to_line.cpp">
+         <Option target="test_dist_pt_to_line"/>
+      </Unit>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/tests/test_douglas.cpp">
+         <Option target="test_douglas"/>
+      </Unit>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/tests/test_svg.cpp">
+         <Option target="test_svg"/>
+      </Unit>
+      <Unit filename="/home/jyr/Desktop/code-sample/code-sample/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/g++   -g   CMakeFiles/test_svg.dir/tests/test_svg.cpp.o  -o bin/test_svg lib/libinterview.a 

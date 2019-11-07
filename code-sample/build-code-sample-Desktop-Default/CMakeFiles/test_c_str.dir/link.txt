@@ -1,0 +1,1 @@
+/usr/bin/g++   -g   CMakeFiles/test_c_str.dir/tests/test_c_str.cpp.o  -o bin/test_c_str lib/libinterview.a 

@@ -1,0 +1,12 @@
+build
+dist
+*.egg
+*~*
+*#*
+.idea
+.vscode
+.mypy*
+*.pyc
+python/*.svg
+include/*.svg
+src/*.svg

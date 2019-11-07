@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libinterview.a  CMakeFiles/interview.dir/src/geometry.cpp.o CMakeFiles/interview.dir/src/utils.cpp.o CMakeFiles/interview.dir/src/svg.cpp.o
+/usr/bin/ranlib lib/libinterview.a

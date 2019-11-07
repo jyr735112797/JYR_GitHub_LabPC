@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/svg.hpp
+iostream
+-
+ostream
+-
+string
+-
+vector
+-
+
+../include/utils.hpp
+ostream
+-
+
+/home/jyr/Desktop/code-sample/code-sample/tests/test_svg.cpp
+svg.hpp
+/home/jyr/Desktop/code-sample/code-sample/tests/svg.hpp
+utils.hpp
+/home/jyr/Desktop/code-sample/code-sample/tests/utils.hpp
+iostream
+-
+sstream
+-
+

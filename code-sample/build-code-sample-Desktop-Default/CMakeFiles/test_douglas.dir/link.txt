@@ -1,0 +1,1 @@
+/usr/bin/g++   -g   CMakeFiles/test_douglas.dir/tests/test_douglas.cpp.o  -o bin/test_douglas lib/libinterview.a 
